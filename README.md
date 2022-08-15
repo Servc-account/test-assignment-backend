@@ -4,7 +4,7 @@ Create a backend for a bookstore.
 
 To store the code, use the repository on GitHub.
 
-Create a server on Spring Boot.
+Create a server on Spring Boot. Starter code can be obtained [here](https://start.spring.io/).
 
 Make a CRUD for a bookstore with 5 endpoints:
 * GET /books - Get array of all books
