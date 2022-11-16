@@ -6,7 +6,7 @@ Create a **new** branch, make the task in it, then make a **Pull Request** to th
 
 ## Task
 
-Create a server on Spring Boot. Starter code can be obtained [here](https://start.spring.io/).
+Create a server on Spring Boot. Starter code can be obtained [**here**](https://start.spring.io/).
 
 Book data is stored in a SQLite database.
 
